@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Barcode reader</string>
+    <string name="scan_barcode">Scan Barcode</string>
+    <string name="leak"> LeaKCanary</string>
+    <string name="helper_text">Rotate</string>
+    <string name="start_async_task"> Leak button</string>
+</resources>
